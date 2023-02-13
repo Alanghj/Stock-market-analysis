@@ -24,7 +24,7 @@ All recurrent neural networks have the form of a chain of repeating modules of n
 Install dependencies ([virtual-environment](https://en.whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda) is recommended.)
 
 ```python
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 
@@ -46,7 +46,7 @@ pip install requirements.txt
     <tr>
         <td align="center">
             <a href="https://github.com/Alanghj">
-                <img src="https://user-images.githubusercontent.com/81534309/151803029-df474faf-bb04-4c5b-8b0d-072d7b4b40b1.png" width="150px;" alt="Image Alanghj" />
+                <img src="https://avatars.githubusercontent.com/u/81534309?s=400&u=647f4710e89a234faa1b8e6c2097f752d558d68d&v=4" width="270px;" height="270px;" alt="Image Alanghj" />
                 <br />
                 <sub><b>Alanghj</b></sub>
             </a>
@@ -54,8 +54,5 @@ pip install requirements.txt
     </tr>
 </table>
 <h4 align="center">
-   Made by <a href="/" target="#"> Alanghj</a>
+   Made by <a href="https://github.com/Alanghj" target="#"> Alanghj</a>
 </h4>
-
-
-
